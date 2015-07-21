@@ -6,7 +6,6 @@
 # This script requires the following packages:
 # FitAR, fUnitRoots, urca, sandwich, lmtest, xtable, dyn, zoo and car
 # make sure you install these packages before you load them.
-#
 
 
 
